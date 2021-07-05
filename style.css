@@ -40,3 +40,32 @@ section{
 p{
     font-size: 20px;
 }
+.platter{
+    display:flex;
+}
+.platter img{
+    width: 80%;
+}
+.recipe{
+    display:initial;
+    width: 33%;
+    box-shadow: 10px 20px 30px rgb(19, 17, 17);
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 1px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.txt{
+    text-align: center;
+}
+.repe{
+    width: 100%;
+    border-radius: 20px;
+    image-orientation: inherit;
+}
+.ad{
+    display:initial;
+}
