@@ -1,0 +1,32 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.clr{
+    color: orangered;
+}
+section{
+    display: flex;
+}
+.half{
+    width: 50%;
+    padding-right: 10%;
+}
+.half img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orangered,tomato);
+    color: white;
+    font-weight: 400;
+    padding: 10px 25px;
+    border-radius: 5px;
+}
+.banner{
+    background-image: url(food-network-main/images/shapes/top-banner.png);
+    background-repeat: no-repeat;
+}
