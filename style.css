@@ -10,13 +10,14 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half{
     width: 50%;
-    padding-right: 10%;
+    padding-right: 15%;
 }
 .half img{
-    width: 100%;
+    width: 90%;
 }
 .link-button{
     text-decoration: none;
@@ -29,4 +30,13 @@ section{
 .banner{
     background-image: url(food-network-main/images/shapes/top-banner.png);
     background-repeat: no-repeat;
+    text-align: center;
+}
+.me{
+    background-image: url(food-network-main/images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    text-align:center;
+}
+p{
+    font-size: 20px;
 }
